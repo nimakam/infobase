@@ -1,1 +1,6 @@
+title: Infobase
+logo: logo.png
+description: A more intuitive and flexible successor to database
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
